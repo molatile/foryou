@@ -35,7 +35,7 @@ function next(){
   if(i>=img.length){
     i=0;
   }
-  slide.src=`${img[i]}.jpeg`;
+  slide.src=`${img[i]}.jpg`;
 }
 
 setInterval(next, 3000);
