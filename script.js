@@ -1,4 +1,4 @@
-let w=['ALINA','OLD','ALYA','CUTE'];
+let w=['Pear','Wasp','Mite','Bunny'];
 let el=document.querySelector('#type');
 function sleep(ms){
   return new Promise(resolve=>setTimeout(resolve,ms));
