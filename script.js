@@ -26,7 +26,7 @@ let write=async()=>{
 };
 write();
 
-const img=["s1","s2","s3","s4","s5","s6","s7"];
+const img=["s1","s2","s3","s4","s5","s6","s7","s8","s9","s10"];
 let i=0;
 let slide=document.querySelector(".slide");
 
